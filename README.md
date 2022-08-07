@@ -3,7 +3,7 @@ Defenders DFD BSC BEP20 TOKEN - is a P2P open market crypto currency, tradeable 
 
 <h1>Defenders DFD</h1>
 <h2>Binance Smart Contract (BSC) BEP20</h2>
-<img src="https://c-exins.co/tokens/BEP20/odematic-odm/images/Defenders-DFD-200x200.png" alt="Defenders DFD" title="Defenders DFD" /> <br />
+<img src="https://c-exins.co/tokens/BEP20/defenders-dfd/images/Defenders-DFD-200x200.png" alt="Defenders DFD" title="Defenders DFD" /> <br />
 
 
 <h3>Technical information of Defenders DFD Coin</h3>
@@ -68,6 +68,6 @@ Trade Defenders DFD</a> <br/> <br />
 <b>Email:</b> info@c-exins.co (For Generals) , DefendersDFD@c-exins.co (For Developers) <br/> <br/> <br/>
 
 
-Saturday, 22 May, 2022 <br/>
-C-EXINS Blockchain Department, <a href="http://Odeonus.com" title="Odeonus.com">Odeonus.com</a> <br/>
+Last Updated: Sunday, 07 August, 2022 <br/>
+C-EXINS Blockchain department, <a href="http://Odeonus.com" title="Odeonus.com">Odeonus.com</a> <br/>
 
