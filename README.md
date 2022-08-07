@@ -29,7 +29,7 @@ you must copy or write menemonic into any safe place and store it. One more step
 this account is backup your primary key and store it into any safe place, too. <br /> <br />
 
 Now, you are ready to transfer Defenders DFD Tokens into this BSC BEP20 Supported wallet. <br /> <br /> <br />
-
+ 
 
 
 <h1>Block Explorer</h1>
